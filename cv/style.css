@@ -1,0 +1,25 @@
+
+nav {
+    background-color: #c3d8fc37;
+}
+.navbar-nav {
+    gap:40px;
+    font-size:20px;
+}
+.navbar-nav .nav-item .nav-link {
+    color:#494949;
+    font-variant: small-caps;
+}
+
+.navbar-nav .nav-link.active {
+  color: black;
+  text-shadow: 3px 2px 2px #7b7b7b;
+  
+}
+.navbar-nav .nav-item:hover {
+    transform: scale(1.2);
+    transition: ease 1.0s;
+    border-bottom: 2px solid #494949;
+}
+
+

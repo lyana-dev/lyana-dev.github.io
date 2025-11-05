@@ -1,11 +1,11 @@
 @font-face {
     font-family: myFont;
-    src: url(fonts/ChettaVissto.ttf)
+    src: url(../fonts/ChettaVissto.ttf)
 }
 
 @font-face {
     font-family: Begifta;
-    src:url(fonts/Begifta.ttf)
+    src:url(../fonts/Begifta.ttf)
 }
 
 body {
